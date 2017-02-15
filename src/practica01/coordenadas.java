@@ -40,8 +40,8 @@ this.Y=y;
   this.area=(this.base*this.altura)/2;
   return this.area;}
   public double Calcular_perimetro(){
-  this.perimetro=(this.base+(2*()));
-    }
+  this.perimetro=(this.base+(2*(4)));
+   return this.perimetro;}
   
   
 }
